@@ -1,0 +1,14 @@
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\bin\Debug\net6.0\T6.exe
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\bin\Debug\net6.0\T6.deps.json
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\bin\Debug\net6.0\T6.runtimeconfig.json
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\bin\Debug\net6.0\T6.dll
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\bin\Debug\net6.0\T6.pdb
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.AssemblyInfoInputs.cache
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.AssemblyInfo.cs
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.csproj.CoreCompileInputs.cache
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.dll
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\refint\T6.dll
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.pdb
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\T6.genruntimeconfig.cache
+D:\JAMK\Sem3\Concurrent Programming\concurrent_programming\Assignment1\T6\obj\Debug\net6.0\ref\T6.dll

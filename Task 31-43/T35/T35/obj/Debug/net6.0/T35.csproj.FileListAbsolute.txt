@@ -1,0 +1,17 @@
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\T35.exe
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\T35.deps.json
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\T35.runtimeconfig.json
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\T35.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\T35.pdb
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\bin\Debug\net6.0\nunit.framework.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.csproj.AssemblyReference.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.AssemblyInfoInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.AssemblyInfo.cs
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.csproj.CoreCompileInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.csproj.CopyComplete
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\refint\T35.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.pdb
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\T35.genruntimeconfig.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T35\T35\obj\Debug\net6.0\ref\T35.dll

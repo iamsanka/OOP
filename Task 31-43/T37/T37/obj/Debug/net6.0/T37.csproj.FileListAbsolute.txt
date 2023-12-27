@@ -1,0 +1,14 @@
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\bin\Debug\net6.0\T37.exe
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\bin\Debug\net6.0\T37.deps.json
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\bin\Debug\net6.0\T37.runtimeconfig.json
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\bin\Debug\net6.0\T37.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\bin\Debug\net6.0\T37.pdb
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.AssemblyInfoInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.AssemblyInfo.cs
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.csproj.CoreCompileInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\refint\T37.dll
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.pdb
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\T37.genruntimeconfig.cache
+D:\JAMK\Sem3\Object Oriented Programming\Assignments\T37\T37\obj\Debug\net6.0\ref\T37.dll

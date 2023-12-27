@@ -1,0 +1,14 @@
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\bin\Debug\net6.0\T23.exe
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\bin\Debug\net6.0\T23.deps.json
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\bin\Debug\net6.0\T23.runtimeconfig.json
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\bin\Debug\net6.0\T23.dll
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\bin\Debug\net6.0\T23.pdb
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.AssemblyInfoInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.AssemblyInfo.cs
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.csproj.CoreCompileInputs.cache
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.dll
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\refint\T23.dll
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.pdb
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\T23.genruntimeconfig.cache
+D:\JAMK\Sem3\Object Oriented Programming\ttc8440_oop\Task\T23\T23\obj\Debug\net6.0\ref\T23.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6/PeBWTx/HK8OkhMcDkO+uw+p/ChvlaxowSITjYEEnvrDUMQLEMlxIZKWylZNr2vqoTiX2+u0zHvIq2BmlDSQ==",
+  "success": true,
+  "projectFilePath": "D:\\JAMK\\Sem3\\Object Oriented Programming\\Assignments\\T35\\T35\\T35.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STZ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\STZ\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\STZ\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
